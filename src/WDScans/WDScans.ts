@@ -18,7 +18,7 @@ export const WDScansInfo: SourceInfo = {
     author: 'NotMarek',
     authorWebsite: 'http://github.com/notmarek',
     icon: 'icon.png',
-    contentRating: ContentRating.ADULT,
+    contentRating: ContentRating.EVERYONE,
     websiteBaseURL: WDSCANS_DOMAIN,
     sourceTags: [
         {
